@@ -31,7 +31,7 @@ public class StatsSystem {
     public static final UUID SPEED_MOD_UUID = UUID.fromString("77777777-8888-9999-0000-111111111111");
 
     public static int getLevelCost(int currentLevel) {
-        return (int) Math.round(5 * Math.pow(1.5, currentLevel - 1));
+        return (int) Math.round(5 + Math.pow(0.5, currentLevel - 1));
     }
 
     public static void syncStats(ServerPlayer player) {
