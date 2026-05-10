@@ -1,0 +1,20 @@
+{
+  "gui.statsupgrader.custom_inventory": "Меню Характеристик",
+  "gui.statsupgrader.open_stats_button": "Характеристики",
+  "gui.statsupgrader.level_up": "Підняти рівень",
+  "gui.statsupgrader.vanilla_level": "Звичайний рівень: %s",
+  "gui.statsupgrader.custom_level": "Кастомний рівень: %s",
+  "gui.statsupgrader.free_points": "Вільні очки: %s",
+  "gui.statsupgrader.cost_info": "Ціна: %s",
+  "gui.statsupgrader.health": "Здоров'я: +%s сер.",
+  "gui.statsupgrader.health_max": "Здоров'я: +%s сер. (MAX)",
+  "gui.statsupgrader.resistance": "Опір: +%s%%",
+  "gui.statsupgrader.resistance_max": "Опір: +%s%% (MAX)",
+  "gui.statsupgrader.damage": "Шкода: +%s%%",
+  "gui.statsupgrader.damage_max": "Шкода: +%s%% (MAX)",
+  "gui.statsupgrader.speed": "Швидкість: +%s%%",
+  "gui.statsupgrader.speed_max": "Швидкість: +%s%% (MAX)",
+  "gui.statsupgrader.regen": "Реген: +%s/сек",
+  "gui.statsupgrader.regen_max": "Реген: +%s/сек (MAX)"
+
+}

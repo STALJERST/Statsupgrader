@@ -1,0 +1,19 @@
+{
+  "gui.statsupgrader.custom_inventory": "Stats Menu",
+  "gui.statsupgrader.open_stats_button": "Stats",
+  "gui.statsupgrader.level_up": "Level Up",
+  "gui.statsupgrader.vanilla_level": "Vanilla Level: %s",
+  "gui.statsupgrader.custom_level": "Custom Level: %s",
+  "gui.statsupgrader.free_points": "Free Points: %s",
+  "gui.statsupgrader.cost_info": "Cost: %s",
+  "gui.statsupgrader.health": "Health: +%s hrts",
+  "gui.statsupgrader.health_max": "Health: +%s hrts (MAX)",
+  "gui.statsupgrader.resistance": "Resistance: +%s%%",
+  "gui.statsupgrader.resistance_max": "Resistance: +%s%% (MAX)",
+  "gui.statsupgrader.damage": "Damage: +%s%%",
+  "gui.statsupgrader.damage_max": "Damage: +%s%% (MAX)",
+  "gui.statsupgrader.speed": "Speed: +%s%%",
+  "gui.statsupgrader.speed_max": "Speed: +%s%% (MAX)",
+  "gui.statsupgrader.regen": "Regen: +%s/sec",
+  "gui.statsupgrader.regen_max": "Regen: +%s/sec (MAX)"
+}
